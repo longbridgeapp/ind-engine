@@ -1,0 +1,6 @@
+[book]
+authors = ["Sunli"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Ind Engine 指标引擎指南"
